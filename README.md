@@ -51,11 +51,13 @@ It offers:
 
   ## 📸 Screenshots
 
-  "D:\Guvi project 3\Screenshot 2025-08-01 160326.png"
-  "D:\Guvi project 3\Screenshot 2025-08-01 160342.png"
-  "D:\Guvi project 3\Screenshot 2025-08-01 160407 - Copy.png"
-  "D:\Guvi project 3\Screenshot 2025-08-01 160415.png"
-  
+  <img width="1916" height="941" alt="Screenshot 2025-08-01 160326 - Copy (2)" src="https://github.com/user-attachments/assets/8cbd2eb6-2047-4317-91ba-e5f571255eed" />
+  <img width="960" height="492" alt="Screenshot 2025-08-01 160342" src="https://github.com/user-attachments/assets/9e95c41f-de4e-432f-b090-a267bb3622c8" />
+<img width="1906" height="837" alt="Screenshot 2025-08-01 160407 - Copy" src="https://github.com/user-attachments/assets/83eb8876-d315-482a-8cd9-8866a78c4d5a" />
+<img width="1909" height="889" alt="Screenshot 2025-08-01 160415" src="https://github.com/user-attachments/assets/352a0ac3-6b52-4632-a007-eb5c1e9b6220" />
+
+
+
   
 
 
